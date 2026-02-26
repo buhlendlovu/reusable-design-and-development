@@ -1,0 +1,42 @@
+# Reusable Design and Development
+
+## Practical 2 – Programming Fundamentals
+
+This repository contains my practical implementation for **Unit 1** of the Reusable Design and Development module.
+
+## 📘 Unit Overview
+
+This unit focuses on:
+
+* Object-Oriented Programming (OOP)
+* Introduction to Software Design Patterns
+* Understanding reusable and extensible code structures
+
+## 🎯 Learning Outcomes
+
+After completing this unit, I am able to:
+
+* Discuss object-oriented design patterns and their principles
+* Identify business cases where design patterns provide best-practice solutions
+* Apply the Strategy Design Pattern in a practical implementation
+
+## 🧠 Practical Implemented
+
+### Strategy Design Pattern
+
+The Strategy Pattern was implemented to demonstrate how a system can dynamically change behavior at runtime by encapsulating algorithms into separate classes.
+
+## 💡 Key Concepts Demonstrated
+
+* Encapsulation
+* Polymorphism
+* Abstraction
+* Open/Closed Principle
+* Separation of concerns
+
+## 🛠 Technologies Used
+
+C#
+
+## 👨‍💻 Author
+BP Ndlovu
